@@ -7,3 +7,5 @@ Here I upload Statistics for Data Science Assignment
 This course id taught by **Krish Naik** Sir.
 
 This course is part of **Tech Neuron / One Neuron**
+
+![Cerificate](https://github.com/MohammadWasiq0786/Statistics-for-Data-Science-Assignment/blob/main/Certificate/Stats%20for%20Data%20Science.png)

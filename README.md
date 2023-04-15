@@ -13,4 +13,4 @@ This course is part of **Tech Neuron / One Neuron**
 
 | **Sr. No.** | **Topics**      | **No. of Assignments** |
 |-------------|-----------------|------------------------|
-| 1\.         | **Statistics**  | **25 / 25**            |
+| 1\.         | **Statistics**  | **06 / 06**            |
